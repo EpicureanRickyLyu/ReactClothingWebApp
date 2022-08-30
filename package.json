@@ -2,7 +2,7 @@
   "name": "clothes-store",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://EpicureanRickyLyu.github.io/MyProfolio",
+  "homepage": "https://epicureanrickylyu.github.io/MyProfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
