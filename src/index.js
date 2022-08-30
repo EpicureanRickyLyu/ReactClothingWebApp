@@ -13,7 +13,7 @@ import { CartProvider } from './context/cart-context.context';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 //user go in to children of product
 root.render(
-<BrowserRouter>    
+<BrowserRouter basename={process.env.PUBLIC_URL}>    
         <UserProvider>    
             <ProductProvider>
                 <CartProvider>
